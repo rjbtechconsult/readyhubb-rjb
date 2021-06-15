@@ -1,0 +1,17 @@
+/*
+    Theme Name: ReadyHUbb
+    Author: teamalfy.com
+    Version: 1.0
+*/
+@font-face {
+  font-family: 'Sofia Pro Regular';
+  src: url("../fonts/Sofia Pro Regular Az.otf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+*, body {
+  background-color: blue;
+  font-family: 'Sofia Pro Regular' !important;
+}
+/*# sourceMappingURL=main.css.map */

@@ -50,7 +50,7 @@
                             <a class="nav-link js-scroll-trigger" href="<?php echo site_url('/work-at-mls')?>">Pricing</a>
                         </li>
                         <li class="nav-item ">
-                            <a class="nav-link js-scroll-trigger" href="<?php echo site_url('/articles')?>"> About us </a>
+                            <a class="nav-link js-scroll-trigger" href="<?php echo site_url('/about')?>"> About us </a>
                         </li>
                         <li class="nav-item ">
                             <a class="nav-link js-scroll-trigger" href="<?php echo site_url('#contact-us')?>">  FAQ </a>
